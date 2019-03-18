@@ -1,0 +1,33 @@
+.display{
+    background-image: url("../images/whiteice.jpg");
+       color: darkgray;
+    text-align: center;
+    
+}
+
+#userinput{
+    margin-left: 150px;
+    margin-bottom: 0%;
+   }
+.feeling{
+    margin-bottom: 50px;
+    font-family: 'Rock Salt', cursive;
+}
+.feelbutton{
+    
+    text-align: center;
+    margin-left: 20px;
+    font-weight: bold;
+    margin-right: 40px;
+    background-color: lightsteelblue;
+        
+}
+
+.gifimage{
+    padding: 15px;
+}
+
+.gifdiv{
+    float: left;
+       
+}
